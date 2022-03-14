@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'Manrope, sans-serif';
-  src: url('Manrope[wght].woff2') format('woff2');
+  font-family: 'Manrope';
+  src: url('src/styles/Manrope[wght].woff2') format('woff2');
 }
 
 $background: #050505;
 $color: #fff;
-$font: Manrope, sans-serif;
+$font: Manrope;
 
 body {
   margin: 0;

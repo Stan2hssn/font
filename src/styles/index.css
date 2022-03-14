@@ -1,12 +1,12 @@
 @font-face {
-  font-family: "Manrope, sans-serif";
-  src: url("Manrope[wght].woff2") format("woff2");
+  font-family: "Manrope";
+  src: url("src/styles/Manrope[wght].woff2") format("woff2");
 }
 body {
   margin: 0;
   background-color: #050505;
   color: #fff;
-  font-family: Manrope, sans-serif;
+  font-family: Manrope;
 }
 
 .model {
@@ -106,7 +106,7 @@ body {
   letter-spacing: 0.15em;
   text-transform: uppercase;
   margin: 0;
-  font-family: Manrope, sans-serif;
+  font-family: Manrope;
 }
 .change #text span {
   letter-spacing: initial;
